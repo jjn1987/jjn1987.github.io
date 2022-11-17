@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jjn1987.github.io</id>
+    <title>D师父的游戏屋</title>
+    <updated>2022-11-17T03:45:17.072Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jjn1987.github.io"/>
+    <link rel="self" href="https://jjn1987.github.io/atom.xml"/>
+    <subtitle>D师父的游戏屋，分享经典游戏，重温过去美好。游戏资源以光盘镜像为主。所有资源均来自于互联网，仅供测试交流，勿用于商业用途，如有纠纷本人不承担任何法律责任。希望大家收藏地址，经常来访！</subtitle>
+    <logo>https://jjn1987.github.io/images/avatar.png</logo>
+    <icon>https://jjn1987.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, D师父的游戏屋</rights>
+    <entry>
+        <title type="html"><![CDATA[ [PC]仙剑奇侠传1]]></title>
+        <id>https://jjn1987.github.io/post/pcxian-jian-qi-xia-chuan-1/</id>
+        <link href="https://jjn1987.github.io/post/pcxian-jian-qi-xia-chuan-1/">
+        </link>
+        <updated>2022-11-17T03:41:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [SS]野球拳：特别版]]></title>
+        <id>https://jjn1987.github.io/post/ssye-qiu-quan-te-bie-ban/</id>
+        <link href="https://jjn1987.github.io/post/ssye-qiu-quan-te-bie-ban/">
+        </link>
+        <updated>2022-11-17T03:23:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]反三国志]]></title>
+        <id>https://jjn1987.github.io/post/pcfan-san-guo-zhi/</id>
+        <link href="https://jjn1987.github.io/post/pcfan-san-guo-zhi/">
+        </link>
+        <updated>2022-11-17T02:48:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [GBA]高级战争1]]></title>
+        <id>https://jjn1987.github.io/post/gbagao-ji-zhan-zheng-1/</id>
+        <link href="https://jjn1987.github.io/post/gbagao-ji-zhan-zheng-1/">
+        </link>
+        <updated>2022-10-29T14:04:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PC]新绝代双骄1]]></title>
+        <id>https://jjn1987.github.io/post/pcxin-jue-dai-shuang-jiao-1/</id>
+        <link href="https://jjn1987.github.io/post/pcxin-jue-dai-shuang-jiao-1/">
+        </link>
+        <updated>2022-10-29T12:29:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [GBA]恶魔城：白夜协奏曲]]></title>
+        <id>https://jjn1987.github.io/post/gbae-mo-cheng-bai-ye-xie-zou-qu/</id>
+        <link href="https://jjn1987.github.io/post/gbae-mo-cheng-bai-ye-xie-zou-qu/">
+        </link>
+        <updated>2022-10-16T14:46:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]命令与征服：红色警戒3]]></title>
+        <id>https://jjn1987.github.io/post/pcming-ling-yu-zheng-fu-hong-se-jing-jie-3/</id>
+        <link href="https://jjn1987.github.io/post/pcming-ling-yu-zheng-fu-hong-se-jing-jie-3/">
+        </link>
+        <updated>2022-10-16T14:42:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PS2]战神2]]></title>
+        <id>https://jjn1987.github.io/post/ps2zhan-shen-2/</id>
+        <link href="https://jjn1987.github.io/post/ps2zhan-shen-2/">
+        </link>
+        <updated>2022-10-01T13:08:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]仙剑奇侠传2]]></title>
+        <id>https://jjn1987.github.io/post/pcxian-jian-qi-xia-chuan-2/</id>
+        <link href="https://jjn1987.github.io/post/pcxian-jian-qi-xia-chuan-2/">
+        </link>
+        <updated>2022-10-01T13:01:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PC]刺客信条2]]></title>
+        <id>https://jjn1987.github.io/post/pcci-ke-xin-tiao-2/</id>
+        <link href="https://jjn1987.github.io/post/pcci-ke-xin-tiao-2/">
+        </link>
+        <updated>2022-09-10T13:04:49.000Z</updated>
+    </entry>
+</feed>
