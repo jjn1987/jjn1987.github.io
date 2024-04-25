@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jjn1987.github.io</id>
+    <title>D师父的游戏屋</title>
+    <updated>2024-04-25T14:36:05.502Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jjn1987.github.io"/>
+    <link rel="self" href="https://jjn1987.github.io/atom.xml"/>
+    <subtitle>D师父的游戏屋，分享经典游戏，重温过去美好。游戏资源以光盘镜像为主。所有资源均来自于互联网，仅供测试交流，勿用于商业用途，如有纠纷本人不承担任何法律责任。希望大家收藏地址，经常来访！</subtitle>
+    <logo>https://jjn1987.github.io/images/avatar.png</logo>
+    <icon>https://jjn1987.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, D师父的游戏屋</rights>
+    <entry>
+        <title type="html"><![CDATA[[GBA] 高级战争2：黑洞崛起]]></title>
+        <id>https://jjn1987.github.io/post/gba-gao-ji-zhan-zheng-2hei-dong-jue-qi/</id>
+        <link href="https://jjn1987.github.io/post/gba-gao-ji-zhan-zheng-2hei-dong-jue-qi/">
+        </link>
+        <updated>2024-04-25T14:33:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [GBA] 鬼武者：战略版 ]]></title>
+        <id>https://jjn1987.github.io/post/gba-gui-wu-zhe-zhan-lue-ban/</id>
+        <link href="https://jjn1987.github.io/post/gba-gui-wu-zhe-zhan-lue-ban/">
+        </link>
+        <updated>2024-04-25T14:26:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PC]三国群英传1]]></title>
+        <id>https://jjn1987.github.io/post/pcsan-guo-qun-ying-chuan-1/</id>
+        <link href="https://jjn1987.github.io/post/pcsan-guo-qun-ying-chuan-1/">
+        </link>
+        <updated>2024-04-25T14:17:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PC]古剑奇谭1]]></title>
+        <id>https://jjn1987.github.io/post/pcgu-jian-qi-tan-1/</id>
+        <link href="https://jjn1987.github.io/post/pcgu-jian-qi-tan-1/">
+        </link>
+        <updated>2024-04-08T12:09:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]烈火文明]]></title>
+        <id>https://jjn1987.github.io/post/pclie-huo-wen-ming/</id>
+        <link href="https://jjn1987.github.io/post/pclie-huo-wen-ming/">
+        </link>
+        <updated>2023-12-26T12:07:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]命令与征服：红色警戒3起义时刻]]></title>
+        <id>https://jjn1987.github.io/post/pcming-ling-yu-zheng-fu-hong-se-jing-jie-3-qi-yi-shi-ke/</id>
+        <link href="https://jjn1987.github.io/post/pcming-ling-yu-zheng-fu-hong-se-jing-jie-3-qi-yi-shi-ke/">
+        </link>
+        <updated>2023-12-01T14:11:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PC]三国群英传3]]></title>
+        <id>https://jjn1987.github.io/post/pcsan-guo-qun-ying-chuan-3/</id>
+        <link href="https://jjn1987.github.io/post/pcsan-guo-qun-ying-chuan-3/">
+        </link>
+        <updated>2023-11-27T13:56:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]玩具兵大战2]]></title>
+        <id>https://jjn1987.github.io/post/pcwan-ju-bing-da-zhan-2/</id>
+        <link href="https://jjn1987.github.io/post/pcwan-ju-bing-da-zhan-2/">
+        </link>
+        <updated>2023-11-02T15:10:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]命令与征服：红色警戒2]]></title>
+        <id>https://jjn1987.github.io/post/pcming-ling-yu-zheng-fu-hong-se-jing-jie-2/</id>
+        <link href="https://jjn1987.github.io/post/pcming-ling-yu-zheng-fu-hong-se-jing-jie-2/">
+        </link>
+        <updated>2023-10-12T13:04:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ [PC]刺客信条：兄弟会]]></title>
+        <id>https://jjn1987.github.io/post/pcci-ke-xin-tiao-xiong-di-hui/</id>
+        <link href="https://jjn1987.github.io/post/pcci-ke-xin-tiao-xiong-di-hui/">
+        </link>
+        <updated>2023-04-14T15:16:38.000Z</updated>
+    </entry>
+</feed>
